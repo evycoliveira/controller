@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.pre-commit-config.yaml
 
 ### NetBeans ###
 /nbproject/private/
